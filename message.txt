@@ -1,0 +1,3 @@
+_text:Hello
+_sender:misha
+_receiver:vasya
